@@ -16,3 +16,9 @@
 * Section tax code, retirement account that the company has the option of contributing to your retirement fund. Only accessible after a certain age, but is taxed immediately if the owner wants to take that money out to use.
 * Lower taxes overall if you contribute to your 401k.
 * Lower tax rate when it's withdrawn
+
+## Compensation -- Stock
+* Your Shares
+* Fully Diluted Shares
+* Strike Price
+* Vesting Schedule
