@@ -61,3 +61,6 @@
 * Quantifiable self
 * Peace of mind
 * Pay off debt
+* Review Budget every month
+
+## Investing
