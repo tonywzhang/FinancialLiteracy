@@ -67,3 +67,9 @@
 * Open an account on Vanguard
 * Invest in Target Funds
 * Individual Stocks( < 5% investing budget)
+
+## Roth vs Traditional IRA
+* Roth you pay taxes up front, never pay taxes again. but there are higher restrictions on whether you withdraw and when you can withdraw
+* Traditional you are taxed when you withdraw your money
+* Save money now > saving money later
+* Open a Vanguard account for an IRA and buy a Target Fund
