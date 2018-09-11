@@ -55,3 +55,9 @@
 * Use less than 30% of your total credit
 * Don't rush into major expenses
 * Reduce taxes however you can
+
+## Budgeting
+* Align spending with values
+* Quantifiable self
+* Peace of mind
+* Pay off debt
