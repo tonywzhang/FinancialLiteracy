@@ -64,3 +64,6 @@
 * Review Budget every month
 
 ## Investing
+* Open an account on Vanguard
+* Invest in Target Funds
+* Individual Stocks( < 5% investing budget)
