@@ -26,3 +26,6 @@
 ## ESPP (Employee Stock Purchase Plan)
 * Allows employees to purchase stocks, incentivizes employees to invest within the company.
 * Usually gives a discount for employees on the stocks for the company.
+
+## RSU (Restricted Stock Units)
+* Incentivizes employees to stay longer to get the fully benefits of the stocks
