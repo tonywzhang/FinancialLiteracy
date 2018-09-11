@@ -22,3 +22,7 @@
 * Fully Diluted Shares
 * Strike Price
 * Vesting Schedule
+
+## ESPP (Employee Stock Purchase Plan)
+* Allows employees to purchase stocks, incentivizes employees to invest within the company.
+* Usually gives a discount for employees on the stocks for the company.
