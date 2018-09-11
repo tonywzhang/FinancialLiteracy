@@ -41,3 +41,9 @@
 * Tuition
 * Food
 * Life Insurance
+
+## Expenses
+* App Academy
+* Taxes
+* Rent
+* Everything Else
