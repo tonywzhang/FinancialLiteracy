@@ -29,3 +29,8 @@
 
 ## RSU (Restricted Stock Units)
 * Incentivizes employees to stay longer to get the fully benefits of the stocks
+
+## Healthcare
+* Selecting a Health Plan
+* PPO vs HMO vs HDHP
+* PPO is often the preferred choice
