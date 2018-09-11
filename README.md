@@ -47,3 +47,11 @@
 * Taxes
 * Rent
 * Everything Else
+
+## Credit Score
+* Pay bills on time
+* Check it regularly
+* Keep your oldest card open
+* Use less than 30% of your total credit
+* Don't rush into major expenses
+* Reduce taxes however you can
